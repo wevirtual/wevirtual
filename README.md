@@ -1,4 +1,4 @@
-WEVIRTUAL 👋
+*WEVIRTUAL* 👋
 
 Preenchendo uma lacuna entre um blockchain de tecnologia descentralizada e a adoção dominante dessa técnologia para o mundo real de seus negócios.
 
